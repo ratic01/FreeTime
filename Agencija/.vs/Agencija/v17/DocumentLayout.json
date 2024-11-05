@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\diplomski-proba2\\Agencija\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\createadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\createadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\agencija.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\agencija.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\helpers\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\helpers\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\createadmincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\createadmincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\acceptreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\acceptreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\createreservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\createreservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\registeragenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\registeragenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\loginadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\loginadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\loginadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\loginadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\createreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\createreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\migrations\\20241021195837_migrationaddemailinreservation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\migrations\\20241021195837_migrationaddemailinreservation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\dto\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\dto\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\models\\reservationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\models\\reservationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\migrations\\20241021162810_migrationaddemailinreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\migrations\\20241021162810_migrationaddemailinreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\usercancelreservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\usercancelreservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getreservationsbyuseridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getreservationsbyuseridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getreservationeventshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getreservationeventshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\dto\\reservationeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\dto\\reservationeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\rejectreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\rejectreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getreservationeventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getreservationeventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\osnoveprogramiranja\\diplomski-proba\\Agencija\\Agencija\\Migrations\\20241020214023_MigrationReservationEventTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\acceptreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\acceptreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\reservetourpackagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\reservetourpackagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\gettourpackagebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\gettourpackagebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\gettourpackagebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\gettourpackagebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getpackagesfromreservationpackageidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getpackagesfromreservationpackageidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getpackagesfromreservationpackageidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getpackagesfromreservationpackageidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getreservationbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getreservationbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getreservationsbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getreservationsbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getallreservationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getallreservationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\rejectreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\rejectreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getallreservationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getallreservationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getreservationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getreservationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\getalltourpackagesqueryhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\getalltourpackagesqueryhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\sendemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\sendemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\sendemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\sendemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\usercancelreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\usercancelreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\createtourpackagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\createtourpackagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\createtourpackagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\createtourpackagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\handlers\\updatetourpackagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\handlers\\updatetourpackagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\updatetourpackagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\updatetourpackagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\queries\\getalltourpackagesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\queries\\getalltourpackagesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\feautures\\commands\\registeragentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\feautures\\commands\\registeragentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\migrations\\20241015111351_intitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\migrations\\20241015111351_intitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\migrations\\20241020214419_migrationreservationeventtable4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\migrations\\20241020214419_migrationreservationeventtable4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|c:\\diplomski-proba2\\agencija\\agencija\\migrations\\20241021162532_migrationaddemailinevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3D5863-E204-4CB7-AFC3-C68A5F0AA2C9}|Agencija\\Agencija.csproj|solutionrelative:agencija\\migrations\\20241021162532_migrationaddemailinevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Helpers\\SeedData.cs",
+              "RelativeDocumentMoniker": "Agencija\\Helpers\\SeedData.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Helpers\\SeedData.cs",
+              "RelativeToolTip": "Agencija\\Helpers\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:31:11.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Agencija\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Agencija\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:49:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Program.cs",
+              "RelativeDocumentMoniker": "Agencija\\Program.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Program.cs",
+              "RelativeToolTip": "Agencija\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADgvxUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:23:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcceptReservationCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\AcceptReservationCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\AcceptReservationCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\AcceptReservationCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\AcceptReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:09:14.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAdminCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\CreateAdminCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\CreateAdminCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\CreateAdminCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\CreateAdminCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:51:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agencija.csproj",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Agencija.csproj",
+              "RelativeDocumentMoniker": "Agencija\\Agencija.csproj",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Agencija.csproj",
+              "RelativeToolTip": "Agencija\\Agencija.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T16:43:27.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAdminCommandHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\CreateAdminCommandHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\CreateAdminCommandHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\CreateAdminCommandHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\CreateAdminCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:53:04.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateReservationHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\CreateReservationHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\CreateReservationHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\CreateReservationHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\CreateReservationHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:47:35.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Agencija\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Agencija\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:44:14.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241021195837_MigrationAddEmailinReservation2.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241021195837_MigrationAddEmailinReservation2.cs",
+              "RelativeDocumentMoniker": "Agencija\\Migrations\\20241021195837_MigrationAddEmailinReservation2.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241021195837_MigrationAddEmailinReservation2.cs",
+              "RelativeToolTip": "Agencija\\Migrations\\20241021195837_MigrationAddEmailinReservation2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:58:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterAgentHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\RegisterAgentHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\RegisterAgentHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\RegisterAgentHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\RegisterAgentHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:24:57.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\RegisterUserHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\RegisterUserHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:55:41.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginAdminHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\LoginAdminHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\LoginAdminHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\LoginAdminHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\LoginAdminHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:39:23.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DateTimeConverter.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\DateTimeConverter.cs",
+              "RelativeDocumentMoniker": "Agencija\\DateTimeConverter.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\DateTimeConverter.cs",
+              "RelativeToolTip": "Agencija\\DateTimeConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:12:21.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginAdminCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\LoginAdminCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\LoginAdminCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\LoginAdminCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\LoginAdminCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:38:33.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:53:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateReservationCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\CreateReservationCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\CreateReservationCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\CreateReservationCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\CreateReservationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:47:15.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateReservationDto.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Dto\\CreateReservationDto.cs",
+              "RelativeDocumentMoniker": "Agencija\\Dto\\CreateReservationDto.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Dto\\CreateReservationDto.cs",
+              "RelativeToolTip": "Agencija\\Dto\\CreateReservationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:58:55.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationEvent.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\ReservationEvent.cs",
+              "RelativeDocumentMoniker": "Agencija\\Models\\ReservationEvent.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\ReservationEvent.cs",
+              "RelativeToolTip": "Agencija\\Models\\ReservationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:33:27.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Agencija\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Agencija\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAADwv7sAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:45:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Agencija\\Models\\Reservation.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\Reservation.cs",
+              "RelativeToolTip": "Agencija\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:47:27.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241021162810_MigrationAddEmailinReservation.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241021162810_MigrationAddEmailinReservation.cs",
+              "RelativeDocumentMoniker": "Agencija\\Migrations\\20241021162810_MigrationAddEmailinReservation.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241021162810_MigrationAddEmailinReservation.cs",
+              "RelativeToolTip": "Agencija\\Migrations\\20241021162810_MigrationAddEmailinReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:28:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Agencija\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Agencija\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:52:30.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserCancelReservationHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\UserCancelReservationHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\UserCancelReservationHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\UserCancelReservationHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\UserCancelReservationHandler.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:12:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetReservationsByUserIdHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetReservationsByUserIdHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetReservationsByUserIdHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetReservationsByUserIdHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetReservationsByUserIdHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:08:42.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetReservationEventsHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetReservationEventsHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetReservationEventsHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetReservationEventsHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetReservationEventsHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:51:31.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20241021162532_MigrationAddEmailinEvents.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241021162532_MigrationAddEmailinEvents.cs",
+              "RelativeDocumentMoniker": "Agencija\\Migrations\\20241021162532_MigrationAddEmailinEvents.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241021162532_MigrationAddEmailinEvents.cs",
+              "RelativeToolTip": "Agencija\\Migrations\\20241021162532_MigrationAddEmailinEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:25:32.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReservationEventDto.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Dto\\ReservationEventDto.cs",
+              "RelativeDocumentMoniker": "Agencija\\Dto\\ReservationEventDto.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Dto\\ReservationEventDto.cs",
+              "RelativeToolTip": "Agencija\\Dto\\ReservationEventDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:49:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RejectReservationCommandHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\RejectReservationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\RejectReservationCommandHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\RejectReservationCommandHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\RejectReservationCommandHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:09:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Agencija\\Models\\User.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\User.cs",
+              "RelativeToolTip": "Agencija\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:47:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TourPackage.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\TourPackage.cs",
+              "RelativeDocumentMoniker": "Agencija\\Models\\TourPackage.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\TourPackage.cs",
+              "RelativeToolTip": "Agencija\\Models\\TourPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:47:18.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetReservationEventsQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetReservationEventsQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetReservationEventsQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetReservationEventsQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetReservationEventsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:49:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20241020214419_MigrationReservationEventTable4.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241020214419_MigrationReservationEventTable4.cs",
+              "RelativeDocumentMoniker": "Agencija\\Migrations\\20241020214419_MigrationReservationEventTable4.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241020214419_MigrationReservationEventTable4.cs",
+              "RelativeToolTip": "Agencija\\Migrations\\20241020214419_MigrationReservationEventTable4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:44:19.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241020214023_MigrationReservationEventTable2.cs",
+              "DocumentMoniker": "D:\\osnoveprogramiranja\\diplomski-proba\\Agencija\\Agencija\\Migrations\\20241020214023_MigrationReservationEventTable2.cs",
+              "ToolTip": "D:\\osnoveprogramiranja\\diplomski-proba\\Agencija\\Agencija\\Migrations\\20241020214023_MigrationReservationEventTable2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:40:23.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReserveTourPackageCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\ReserveTourPackageCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\ReserveTourPackageCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\ReserveTourPackageCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\ReserveTourPackageCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:13:39.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AcceptReservationCommandHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\AcceptReservationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\AcceptReservationCommandHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\AcceptReservationCommandHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\AcceptReservationCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:21:48.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetTourPackagebyIdHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetTourPackagebyIdHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetTourPackagebyIdHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetTourPackagebyIdHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetTourPackagebyIdHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:45:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetTourPackagebyIdQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetTourPackagebyIdQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetTourPackagebyIdQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetTourPackagebyIdQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetTourPackagebyIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:43:47.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetPackagesFromReservationPackageIdQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetPackagesFromReservationPackageIdQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetPackagesFromReservationPackageIdQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetPackagesFromReservationPackageIdQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetPackagesFromReservationPackageIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:51:19.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetPackagesFromReservationPackageIdHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetPackagesFromReservationPackageIdHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetPackagesFromReservationPackageIdHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetPackagesFromReservationPackageIdHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetPackagesFromReservationPackageIdHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswB4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:51:32.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetReservationsByUserIdQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetReservationsByUserIdQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetReservationsByUserIdQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetReservationsByUserIdQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetReservationsByUserIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:08:30.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetReservationByIdHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetReservationByIdHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetReservationByIdHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetReservationByIdHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetReservationByIdHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:21:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAllReservationsHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetAllReservationsHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetAllReservationsHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetAllReservationsHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetAllReservationsHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:32:55.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetUserByIdHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetUserByIdHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetUserByIdHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetUserByIdHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetUserByIdHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:31:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RejectReservationCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\RejectReservationCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\RejectReservationCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\RejectReservationCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\RejectReservationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:09:44.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetAllReservationsQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetAllReservationsQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetAllReservationsQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetAllReservationsQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetAllReservationsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:32:41.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:31:28.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetReservationByIdQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetReservationByIdQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetReservationByIdQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetReservationByIdQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetReservationByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:21:20.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Agencija\\Models\\Status.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\Status.cs",
+              "RelativeToolTip": "Agencija\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:29:56.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\UserType.cs",
+              "RelativeDocumentMoniker": "Agencija\\Models\\UserType.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Models\\UserType.cs",
+              "RelativeToolTip": "Agencija\\Models\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:27:48.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetAllTourPackagesQueryHandler .cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetAllTourPackagesQueryHandler .cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\GetAllTourPackagesQueryHandler .cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\GetAllTourPackagesQueryHandler .cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\GetAllTourPackagesQueryHandler .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:05:03.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241015111351_IntitialMigration.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241015111351_IntitialMigration.cs",
+              "RelativeDocumentMoniker": "Agencija\\Migrations\\20241015111351_IntitialMigration.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Migrations\\20241015111351_IntitialMigration.cs",
+              "RelativeToolTip": "Agencija\\Migrations\\20241015111351_IntitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:13:52.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SendEmailCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\SendEmailCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\SendEmailCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\SendEmailCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\SendEmailCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:53:12.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserCancelReservationCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\UserCancelReservationCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\UserCancelReservationCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\UserCancelReservationCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\UserCancelReservationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:12:16.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\MailSettings.cs",
+              "RelativeDocumentMoniker": "Agencija\\MailSettings.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\MailSettings.cs",
+              "RelativeToolTip": "Agencija\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:58:21.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SendEmailCommandHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\SendEmailCommandHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\SendEmailCommandHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\SendEmailCommandHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\SendEmailCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:53:41.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\EmailService.cs",
+              "RelativeDocumentMoniker": "Agencija\\EmailService.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\EmailService.cs",
+              "RelativeToolTip": "Agencija\\EmailService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:56:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateTourPackageCommandHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\CreateTourPackageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\CreateTourPackageCommandHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\CreateTourPackageCommandHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\CreateTourPackageCommandHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:40:47.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateTourPackageCommandHandler.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\UpdateTourPackageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Handlers\\UpdateTourPackageCommandHandler.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Handlers\\UpdateTourPackageCommandHandler.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Handlers\\UpdateTourPackageCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:15:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateTourPackageCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\CreateTourPackageCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\CreateTourPackageCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\CreateTourPackageCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\CreateTourPackageCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:40:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateTourPackageCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\UpdateTourPackageCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\UpdateTourPackageCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\UpdateTourPackageCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\UpdateTourPackageCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:15:08.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetAllTourPackagesQuery.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetAllTourPackagesQuery.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Queries\\GetAllTourPackagesQuery.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Queries\\GetAllTourPackagesQuery.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Queries\\GetAllTourPackagesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:04:50.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RegisterAgentCommand.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\RegisterAgentCommand.cs",
+              "RelativeDocumentMoniker": "Agencija\\Feautures\\Commands\\RegisterAgentCommand.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Feautures\\Commands\\RegisterAgentCommand.cs",
+              "RelativeToolTip": "Agencija\\Feautures\\Commands\\RegisterAgentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:22:18.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\diplomski-proba2\\Agencija\\Agencija\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Agencija\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\diplomski-proba2\\Agencija\\Agencija\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Agencija\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:52:07.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

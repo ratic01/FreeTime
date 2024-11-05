@@ -1,0 +1,43 @@
+/* Osnovni stilovi za kontejner forme */
+.create-offer-container {
+  display: flex; /* Koristi flexbox za raspored */
+  flex-direction: column; /* Postavi elemente u kolonu */
+  align-items: center; /* Centriraj sadržaj horizontalno */
+  justify-content: center; /* Centriraj sadržaj vertikalno */
+  max-width: 600px; /* Maksimalna širina kontejnera */ 
+  margin: 20px auto; /* Centriranje kontejnera */
+  padding: 20px; /* Unutrašnji razmak */
+  background-color: #f9f9f9; /* Svetla pozadina */
+  border-radius: 8px; /* Zaobljeni uglovi */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Blaga senka */
+}
+
+/* Stilizacija naslova forme */
+.create-offer-container h2 {
+  font-size: 28px; /* Veličina fonta */
+  color: #333; /* Tamna boja teksta */
+  margin-bottom: 20px; /* Razmak ispod naslova */
+}
+
+/* Stilizacija mat-form-field */
+mat-form-field {
+  width: 100%; /* Puni širinu kontejnera */
+  margin-bottom: 15px; /* Razmak između form fields */
+}
+
+/* Stilizacija dugmadi */
+button {
+  margin-top: 20px; /* Razmak iznad dugmeta */
+}
+
+/* Hover efekat za dugmad */
+button:hover {
+  background-color: #0056b3; /* Tamnija plava pri hover-u */
+}
+
+/* Stilizacija za greške (ako je potrebno) */
+.error-message {
+  color: red; /* Crvena boja za greške */
+  font-size: 12px; /* Manja veličina fonta */
+  margin-top: 5px; /* Razmak iznad greške */
+}

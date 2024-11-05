@@ -1,0 +1,54 @@
+<div class="container">
+  <h2>Ažuriraj Ponudu</h2>
+  <mat-card>
+    <form (ngSubmit)="updateOffer()" class="form-container">
+      
+      <mat-form-field appearance="fill">
+        <mat-label>Naziv Ponude</mat-label>
+        <input matInput type="text" [(ngModel)]="package.packageName" name="packageName" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Opis</mat-label>
+        <textarea matInput [(ngModel)]="package.description" name="description" required></textarea>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Datum Početka</mat-label>
+        <input matInput type="date" [(ngModel)]="package.startDate" name="startDate" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Datum Kraja</mat-label>
+        <input matInput type="date" [(ngModel)]="package.endDate" name="endDate" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Cena po Osobi</mat-label>
+        <input matInput type="number" [(ngModel)]="package.pricePerPerson" name="pricePerPerson" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Broj Ljudi</mat-label>
+        <input matInput type="number" [(ngModel)]="package.numberOfPeople" name="numberOfPeople" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Naziv Hotela</mat-label>
+        <input matInput type="text" [(ngModel)]="package.hotelName" name="hotelName" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Ime Države</mat-label>
+        <input matInput type="text" [(ngModel)]="package.countryName" name="countryName" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Ukupno paketa</mat-label>
+        <input matInput type="number" [(ngModel)]="package.totalPackage" name="totalPackage" required />
+      </mat-form-field>
+
+      <button mat-raised-button color="primary" type="submit">Ažuriraj Ponudu</button>
+    </form>
+  </mat-card>
+</div>

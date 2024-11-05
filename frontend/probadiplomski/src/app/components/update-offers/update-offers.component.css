@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px; /* Maksimalna širina kontejnera */
+    margin: 20px auto; /* Centriranje kontejnera */
+    padding: 20px; /* Unutrašnje margine */
+    border-radius: 8px; /* Zaobljeni ivici */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Senka */
+    background-color: #ffffff; /* Pozadina */
+  }
+  
+  h2 {
+    text-align: center; /* Poravnanje naslova u sredinu */
+    color: #333; /* Boja teksta */
+    margin-bottom: 20px; /* Razmak ispod naslova */
+  }
+  
+  .mat-form-field {
+    width: 100%; /* Širina ulaznih polja */
+    margin-bottom: 16px; /* Razmak ispod ulaznog polja */
+  }
+  
+  button {
+    width: 100%; /* Dugme zauzima punu širinu */
+    margin-top: 20px; /* Razmak iznad dugmeta */
+  }
+  

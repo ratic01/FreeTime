@@ -1,0 +1,48 @@
+<div class="reservations-container" *ngIf="userRole === 'Admin' || userRole === 'Agent'; else notAuthorized">
+    <h2>All Reservations</h2>
+    <table mat-table [dataSource]="reservations" class="mat-elevation-z8">
+      
+      <!-- Reservation ID Column -->
+      <ng-container matColumnDef="reservationId">
+        <th mat-header-cell *matHeaderCellDef> Reservation ID </th>
+        <td mat-cell *matCellDef="let reservation"> {{reservation.reservationId}} </td>
+      </ng-container>
+        <!-- User ID Column -->
+      <ng-container matColumnDef="userId">
+        <th mat-header-cell *matHeaderCellDef> User ID </th>
+        <td mat-cell *matCellDef="let reservation"> {{reservation.userId}} </td>
+      </ng-container>
+  
+  
+      <!-- Package Name Column -->
+      <ng-container matColumnDef="packageName">
+        <th mat-header-cell *matHeaderCellDef> Package </th>
+        <td mat-cell *matCellDef="let reservation"> {{reservation.packageName}} </td>
+      </ng-container>
+  
+      <!-- Status Column -->
+      <ng-container matColumnDef="status">
+        <th mat-header-cell *matHeaderCellDef> Status </th>
+        <td mat-cell *matCellDef="let reservation"> {{ statusMap[reservation.status] }} </td>
+      </ng-container>
+  
+      <!-- Actions Column -->
+      <ng-container matColumnDef="actions">
+        <th mat-header-cell *matHeaderCellDef> Actions </th>
+        <td mat-cell *matCellDef="let reservation">
+          <button mat-button color="primary" (click)="acceptReservation(reservation.reservationId)">Accept</button>
+          <button mat-button color="warn" (click)="rejectReservation(reservation.reservationId)">Reject</button>
+          <button mat-button (click)="openHistoryDialog(reservation.reservationId)">View History</button>
+        </td>
+      </ng-container>
+  
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </div>
+  
+  <ng-template #notAuthorized>
+    <h2>Nema pristupa</h2>
+    <p>Ova stranica je dostupna samo adminima i agentima.</p>
+  </ng-template>
+  

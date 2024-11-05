@@ -1,0 +1,16 @@
+<mat-toolbar color="primary" class="navbar">
+    <button *ngIf="userRole === 'Admin' || userRole === 'Agent'" mat-button [routerLink]="['/create-offer']">Kreiraj Ponudu</button>
+    <button *ngIf="userRole === 'Admin'" mat-button [routerLink]="['/register-agent']">Kreiraj Agenta</button>
+    <button  mat-button [routerLink]="['/view-offers']">Prikaži Sve Ponude</button>
+    <button *ngIf="userRole === 'Customer'" mat-button [routerLink]="['/view-reservations']">Prikaži Sve Rezervacije</button>
+    <button *ngIf="userRole === 'Admin' || userRole === 'Agent'" mat-button [routerLink]="['/view-allreservations']">Prikaži Sve Rezervacije</button>
+    <span class="spacer"></span> <!-- Spacer -->
+    <span class="logout-text">Izloguj se</span> 
+    <button mat-icon-button (click)="logout()" aria-label="Izloguj se">
+        <mat-icon>logout</mat-icon>
+      </button>
+      
+  </mat-toolbar>
+
+<!-- Ova sekcija prikazuje aktivnu komponentu -->
+<router-outlet></router-outlet>

@@ -1,0 +1,54 @@
+<div *ngIf="userRole === 'Customer'; else notAuthorized" class="reservations-container">
+    <mat-card>
+      <h2>Moje Rezervacije</h2>
+      <table *ngIf="reservations.length > 0; else noReservations" mat-table [dataSource]="reservations" class="mat-elevation-z8">
+        <!-- Kolona za Rezervacija ID -->
+        <ng-container matColumnDef="reservationId">
+          <th mat-header-cell *matHeaderCellDef> Rezervacija ID </th>
+          <td mat-cell *matCellDef="let reservation"> {{ reservation.reservationId }} </td>
+        </ng-container>
+  
+        <!-- Kolona za Paket -->
+        <ng-container matColumnDef="packageName">
+          <th mat-header-cell *matHeaderCellDef> Paket </th>
+          <td mat-cell *matCellDef="let reservation"> {{ reservation.packageName }} </td>
+        </ng-container>
+  
+        <!-- Kolona za Količinu -->
+        <ng-container matColumnDef="numberOfPackages">
+          <th mat-header-cell *matHeaderCellDef> Količina </th>
+          <td mat-cell *matCellDef="let reservation"> {{ reservation.numberOfPackages }} </td>
+        </ng-container>
+  
+        <!-- Kolona za Status -->
+        <ng-container matColumnDef="status">
+          <th mat-header-cell *matHeaderCellDef> Status </th>
+          <td mat-cell *matCellDef="let reservation"> {{ statusMap[reservation.status] }} </td>
+        </ng-container>
+  
+        <!-- Kolona za Akcije -->
+        <ng-container matColumnDef="actions">
+          <th mat-header-cell *matHeaderCellDef> Akcije </th>
+          <td mat-cell *matCellDef="let reservation">
+            <button mat-button color="warn" (click)="cancelReservation(reservation.reservationId)">Otkaži</button>
+            <button mat-button color="primary" (click)="openReservationDetails(reservation)">Detalji</button>
+          </td>
+        </ng-container>
+  
+        <!-- Header i redovi -->
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      </table>
+      <ng-template #noReservations>
+        <p>Nemate aktivnih rezervacija.</p>
+      </ng-template>
+    </mat-card>
+  </div>
+  
+  <ng-template #notAuthorized>
+    <mat-card>
+      <h2>Nemate pristup</h2>
+      <p>Ova stranica je dostupna samo korisnicima.</p>
+    </mat-card>
+  </ng-template>
+  

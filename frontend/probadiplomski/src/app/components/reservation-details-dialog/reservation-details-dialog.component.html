@@ -1,0 +1,19 @@
+<h2  mat-dialog-title class="large-text">Detalji Rezervacije</h2>
+
+<div mat-dialog-content>
+  <p class="large-text"><strong>ID Rezervacije:</strong> {{ data.reservationId }}</p>
+  <p class="large-text"><strong>Naziv Paketa:</strong> {{ data.packageDetails.packageName }}</p>
+  <p class="large-text"><strong>Opis:</strong> {{ data.packageDetails.description }}</p>
+  <p class="large-text"><strong>Drzava:</strong> {{ data.packageDetails.countryName }}</p>
+  <p class="large-text"><strong>Hotel:</strong> {{ data.packageDetails.hotelName }}</p>
+  <p class="large-text"><strong>Količina:</strong> {{ data.numberOfPackages }}</p>
+  <p class="large-text"><strong>Status:</strong> {{ statusMap[data.status] }}</p> 
+  <p class="large-text"><strong>Početni datum:</strong> {{ data.packageDetails.startDate }}</p>
+  <p class="large-text"><strong>Krajnji datum:</strong> {{ data.packageDetails.endDate }}</p>
+  <p class="large-text"><strong>Cena po osobi:</strong> {{ data.packageDetails.pricePerPerson }}</p>
+
+</div>
+
+<div mat-dialog-actions>
+  <button mat-button (click)="close()" class="large-text">Zatvori</button>
+</div>

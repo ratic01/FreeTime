@@ -1,0 +1,12 @@
+<h2 mat-dialog-title>Enter Number of Packages</h2>
+<mat-dialog-content>
+  <mat-form-field appearance="fill">
+    <mat-label>Number of Packages</mat-label>
+    <input matInput type="number" [(ngModel)]="numberOfPackages" min="1" required />
+  </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancel</button>
+  <button mat-button [mat-dialog-close]="numberOfPackages" cdkFocusInitial>Reserve</button>
+</mat-dialog-actions>
+

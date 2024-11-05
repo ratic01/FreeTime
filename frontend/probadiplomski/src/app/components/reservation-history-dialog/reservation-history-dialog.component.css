@@ -1,0 +1,17 @@
+table {
+    width: 100%; /* Povećaj širinu tabele */
+  }
+  
+  .mat-header-cell, .mat-cell {
+    padding: 16px; /* Dodaj padding za veći razmak */
+  }
+  
+  .mat-cell {
+    border-right: 1px solid #e0e0e0; /* Dodaj ivicu desno od svake ćelije (opciono) */
+  }
+  
+  /* Opcionalno, dodaj stil za poslednju kolonu da nema desne ivice */
+  .mat-cell:last-child, .mat-header-cell:last-child {
+    border-right: none; 
+  }
+  

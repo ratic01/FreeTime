@@ -1,0 +1,13 @@
+.navbar {
+    display: flex; /* Koristi flexbox za raspored */
+    justify-content: flex-start; /* Poravnaj dugmad levo */
+  }
+  
+  .navbar button {
+    margin-right: 16px; /* Razmak između dugmadi */
+  }
+  
+  .spacer {
+    flex: 1; /* Zauzima sav preostali prostor */
+  }
+  

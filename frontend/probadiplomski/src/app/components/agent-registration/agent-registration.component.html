@@ -1,0 +1,29 @@
+<form class="register-form" (ngSubmit)="registerAgent()">
+  <h2>Register Agent</h2>
+
+  <mat-form-field appearance="fill" class="full-width">
+    <mat-label>First Name</mat-label>
+    <input matInput type="text" id="firstName" [(ngModel)]="agentData.firstName" name="firstName" required>
+    <mat-error *ngIf="!agentData.firstName">First Name is required</mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" class="full-width">
+    <mat-label>Last Name</mat-label>
+    <input matInput type="text" id="lastName" [(ngModel)]="agentData.lastName" name="lastName" required>
+    <mat-error *ngIf="!agentData.lastName">Last Name is required</mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" class="full-width">
+    <mat-label>Email</mat-label>
+    <input matInput type="email" id="email" [(ngModel)]="agentData.email" name="email" required #email="ngModel">
+    <mat-error *ngIf="email.invalid && email.touched">A valid email is required</mat-error>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" class="full-width">
+    <mat-label>Password</mat-label>
+    <input matInput type="password" id="password" [(ngModel)]="agentData.password" name="password" required>
+    <mat-error *ngIf="!agentData.password">Password is required</mat-error>
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" type="submit" class="full-width">Register Agent</button>
+</form>
